@@ -1,1 +1,1 @@
-This is jsut an inital project intro for html :P
+This is just an initial project intro for html, helped by ChatGPT :P
